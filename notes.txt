@@ -1,0 +1,13 @@
+alt e s v - paste as values
+Rand between formula- generate random number
+ctrl g - special. you could remove blank rows from here
+alt w v g - remove gridlines
+If you go to data validation tab then list then press keyboard from f3 you could find tempoary table.
+
+steps:
+
+1. selling price increased in 125% from original price
+2. Creating opening stock table adding table format
+3.data validation then vlookup
+4. Balance stock= opening stock + purchase stock-sales stock.
+5. Vlookup- Iferror-conditional formating
