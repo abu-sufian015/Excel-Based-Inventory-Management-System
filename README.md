@@ -34,7 +34,12 @@ The goal is to create a ready-to-use tool that anyone can operate immediately.
 ---
 
 ## Screenshots
-*(Optional: Add screenshots of your Excel sheets or dashboard for better visualization.)*
+![Dashboard](screenshot/opening_stock.png)
+
+---
+
+## Screenshots
+![Dashboard](screenshot/closing.png)
 
 ---
 
